@@ -1,4 +1,4 @@
 # ahk-autoclicker
-This is an autoclicker software with an iteractive gui made entirely in ahk. This software allows you to modify a multitude of settings in order to fit your auto-clicking needs.
+This is an autoclicker with an iteractive gui made entirely in AutoHotkey. This program allows you to modify a multitude of settings to perfectly fit your autoclicking needs.
 
-![screenshot of software](https://imgur.com/gsma896.png)
+![screenshot of software](https://imgur.com/DEenL32.png)
